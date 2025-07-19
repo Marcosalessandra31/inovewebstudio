@@ -1,10 +1,15 @@
 {
-  "name": "inovewebstudio-backend",
+  "name": "inovewebstudio-frontend",
   "version": "1.0.0",
-  "main": "server.js",
+  "private": true,
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "wppconnect": "^1.0.0"
+    "axios": "^1.6.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start"
   }
 }
