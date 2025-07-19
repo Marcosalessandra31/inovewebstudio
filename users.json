@@ -1,0 +1,12 @@
+[
+  {
+    "email": "admin@inovewebstudio.com",
+    "password": "123456",
+    "session": "admin"
+  },
+  {
+    "email": "cliente1@inove.com",
+    "password": "senha123",
+    "session": "cliente1"
+  }
+]
